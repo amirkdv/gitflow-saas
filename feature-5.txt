@@ -1,1 +1,2 @@
 add feature 5
+fix bug 7
