@@ -1,1 +1,2 @@
 feature 3 draft
+finalize feature 3
